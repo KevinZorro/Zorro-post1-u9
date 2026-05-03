@@ -4,6 +4,8 @@ Microservicio de gestión de productos con **suite completa de pruebas unitarias
 usando **JUnit 5 + Mockito**, cubriendo escenarios exitosos, de error, de borde
 y verificación avanzada con `ArgumentCaptor`.
 
+<img width="950" height="289" alt="image" src="https://github.com/user-attachments/assets/5d9b6538-a0bd-4032-92cb-62a200edb694" />
+
 ---
 
 ## Pruebas Implementadas
